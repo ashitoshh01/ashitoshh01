@@ -1,5 +1,6 @@
 # Hey 👋 I'm Ashitosh Lavhate
 💫 About Me:
+<br>
 🔭 I’m currently working on<br>Exploring web development, problem-solving, and software projects that enhance my skills.<br><br>👯 I’m looking to collaborate on<br>Innovative and impactful coding projects..<br><br>🤝 I’m looking for help with<br>Improving my full-stack development skills and learning best practices in software engineering.<br><br>🌱 I’m currently learning<br>Advanced JavaScript, APIs, and system design while refining my problem-solving approach.<br><br>💬 Ask me about<br>Algorithms, time complexity, coding challenges, and debugging.<br><br>⚡ Fun fact<br>I enjoy breaking down complex concepts into simple explanations and believe that learning to code is like solving a puzzle—frustrating at first, but rewarding in the end! 🚀
 
 
