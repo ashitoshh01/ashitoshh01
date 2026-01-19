@@ -100,8 +100,9 @@ I enjoy breaking down complex concepts into simple explanations — coding feels
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=ashitoshh01&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashitoshh01&theme=default" />
 </p>
+
 
 ---
 
