@@ -100,8 +100,9 @@ I enjoy breaking down complex concepts into simple explanations — coding feels
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashitoshh01&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitoshh01&layout=compact&theme=dark&hide_border=true" />
 </p>
+
 
 
 ---
