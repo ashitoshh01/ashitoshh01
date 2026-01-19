@@ -54,7 +54,7 @@ I enjoy breaking down complex concepts into simple explanations — coding feels
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashitoshh01&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ashitoshh01&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -66,27 +66,21 @@ I enjoy breaking down complex concepts into simple explanations — coding feels
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashitoshh01&theme=radical&no-frame=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashitoshh01&theme=radical&no-frame=true&margin-w=8&cache_seconds=1800" />
 </p>
 
 ---
 
-## ✍️ Random Dev Quote
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ashitoshh01&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashitoshh01&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ashitoshh01&icon=1&color=1" />
+  <img src="https://komarev.com/ghpvc/?username=ashitoshh01&style=flat-square&color=blue" />
 </p>
+
+---
