@@ -95,12 +95,12 @@ I enjoy breaking down complex concepts into simple explanations — coding feels
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashitoshh01&show_icons=true&theme=dark&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashitosh01&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitoshh01&layout=compact&theme=dark&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitosh01&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 
@@ -110,13 +110,5 @@ I enjoy breaking down complex concepts into simple explanations — coding feels
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashitoshh01&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashitosh01&theme=github-dark&hide_border=true" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashitoshh01&style=flat-square&color=blue" />
-</p>
-
----
