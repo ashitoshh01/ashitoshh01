@@ -3,22 +3,23 @@
 💫 **About Me**
 
 🔭 Currently working on  
-Exploring web development, problem-solving, and software projects that enhance my skills.
+Building scalable backend systems, REST APIs, and AI-powered applications, while contributing as a Backend Developer Intern at Admatix.
 
 👯 Looking to collaborate on  
-Innovative and impactful coding projects.
+Backend-heavy projects, AI integrations, and impactful full-stack applications solving real-world problems.
 
 🤝 Looking for help with  
-Improving my full-stack development skills and learning best practices in software engineering.
+Advanced system design, distributed systems, and scaling production-grade applications.
 
 🌱 Currently learning  
-Advanced JavaScript, APIs, and system design while refining my problem-solving approach.
+System design, backend architecture optimization, and applied AI/LLM integration in real-world products.
 
 💬 Ask me about  
-Algorithms, time complexity, coding challenges, and debugging.
+Backend development, API design, database optimization, multithreading, and performance tuning.
 
 ⚡ Fun fact  
-I enjoy breaking down complex concepts into simple explanations — coding feels like solving a puzzle 🧩
+I enjoy optimizing systems for performance — reducing latency and improving efficiency feels like solving a real-world puzzle 🚀
+Why this is better (quick insight)
 
 ---
 
