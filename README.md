@@ -90,25 +90,3 @@ I enjoy breaking down complex concepts into simple explanations — coding feels
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Debugging](https://img.shields.io/badge/Debugging-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![System Thinking](https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashitosh01&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitosh01&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
-</p>
-
-
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashitosh01&theme=github-dark&hide_border=true" />
-</p>
