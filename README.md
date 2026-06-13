@@ -274,18 +274,16 @@ Leading:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashitoshh01&theme=onestar&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashitoshh01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
 ---
 
-# Contribution Activity
+# Contribution Snake
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashitoshh01&theme=tokyo-night"/>
-
+  <img src="https://raw.githubusercontent.com/ashitoshh01/ashitoshh01/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
