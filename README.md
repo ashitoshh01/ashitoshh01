@@ -36,8 +36,8 @@
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| **[Evakili](https://evakili.in)** | India's legal-tech platform for multi-city lawyer discovery & consultation | Next.js · TypeScript · Supabase |
-| **DorOrDue** | AI-powered accountability SaaS — submit proof, let AI verify your progress | React · Tailwind · Firebase · Gemini 2.5 Flash |
+| **[Evakili](https://evakili.in)** | India's legal-tech platform for multi-city lawyer discovery & consultation | Next.js · Django · PostgreSQL |
+| **DoOrDue** | AI-powered accountability SaaS — submit proof, let AI verify your progress | React · Tailwind · Firebase · Gemini 2.5 Flash |
 | **DES Unified Platform** | All-in-one college portal for DES Pune University — combining Classroom, Discord & GitHub Codespaces | Next.js · Express · PostgreSQL · Redis |
 | **Baarter** | Barter marketplace with AI-powered recommendations | In Progress |
 
@@ -47,8 +47,8 @@
 
 | Role | Company | Focus |
 |------|---------|-------|
-| Full Stack Developer Intern | Current | Production-grade apps, scalable APIs, modern web platforms |
-| Backend Developer | Erfinden | WhatsApp automation, backend APIs, DB design, performance optimization |
+| Full Stack Developer Intern | Erfinden | Production-grade apps, scalable APIs, modern web platforms |
+| Backend Developer | Admaticx | WhatsApp automation, backend APIs, Payment Integration, performance optimization |
 | CTO | Evakili | Technical leadership, system architecture, product engineering |
 
 ---
@@ -163,14 +163,6 @@ A real-time messaging platform for educational institutions with an AI-driven au
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitoshh01&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashitoshh01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
