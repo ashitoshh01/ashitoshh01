@@ -36,7 +36,7 @@ Full Stack Developer • Backend Engineer • AI Product Builder
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ashitoshh01&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/ashitoshh01?style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/ashitoshh01?style=for-the-badge&logo=github&label=Followers&color=7C3AED"/>
 <img src="https://img.shields.io/github/stars/ashitoshh01?style=for-the-badge&color=4F46E5"/>
 </p>
 
