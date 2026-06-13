@@ -1,9 +1,9 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1C1C1C,50:92400E,100:F59E0B&text=Ashitosh%20Lavhate&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Product%20Builder&descSize=20&descAlignY=62&descColor=FDE68A"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1C1C1C,50:7F1D1D,100:EF4444&text=Ashitosh%20Lavhate&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Product%20Builder&descSize=20&descAlignY=62&descColor=FECACA"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;CTO+%40+Evakili;Building+DorOrDue+%E2%80%A2+DES+Unified+Platform+%E2%80%A2+Baarter" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;CTO+%40+Evakili;Building+DorOrDue+%E2%80%A2+DES+Unified+Platform+%E2%80%A2+Baarter" />
 </p>
 
 ---
@@ -13,21 +13,21 @@
 <p align="center">
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-1C1C1C?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-EF4444?style=for-the-badge"/>
 &nbsp;
 <a href="https://ashitoshlavhate.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-1C1C1C?style=for-the-badge"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/ashitosh01"><img src="https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/ashitosh01"><img src="https://img.shields.io/badge/LinkedIn-Connect-EF4444?style=for-the-badge"/></a>
 &nbsp;
 <a href="mailto:ashitoshlavhate2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1C1C1C?style=for-the-badge"/></a>
 &nbsp;
-<a href="https://github.com/ashitoshh01"><img src="https://img.shields.io/badge/GitHub-Profile-F59E0B?style=for-the-badge"/></a>
+<a href="https://github.com/ashitoshh01"><img src="https://img.shields.io/badge/GitHub-Profile-EF4444?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ashitoshh01&label=Profile%20Views&color=1C1C1C&style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/ashitoshh01?style=for-the-badge&logo=github&label=Followers&color=F59E0B"/>
+<img src="https://img.shields.io/github/followers/ashitoshh01?style=for-the-badge&logo=github&label=Followers&color=EF4444"/>
 </p>
 
 ---
@@ -156,13 +156,13 @@ A real-time messaging platform for educational institutions with an AI-driven au
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashitoshh01&show_icons=true&theme=nord&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=e2e8f0&bg_color=1C1C1C"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashitoshh01&show_icons=true&theme=nord&hide_border=true&title_color=EF4444&icon_color=EF4444&text_color=e2e8f0&bg_color=1C1C1C"/>
 &nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashitoshh01&theme=nord&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&background=1C1C1C"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashitoshh01&theme=nord&hide_border=true&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&background=1C1C1C"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitoshh01&layout=compact&theme=nord&hide_border=true&title_color=F59E0B&text_color=e2e8f0&bg_color=1C1C1C"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitoshh01&layout=compact&theme=nord&hide_border=true&title_color=EF4444&text_color=e2e8f0&bg_color=1C1C1C"/>
 </p>
 
 ---
@@ -216,5 +216,5 @@ Open_To:
 ---
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:F59E0B,50:92400E,100:1C1C1C&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:EF4444,50:7F1D1D,100:1C1C1C&section=footer"/>
 </p>
