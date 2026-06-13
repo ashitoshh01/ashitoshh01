@@ -8,7 +8,7 @@
 
 ---
 
-> I'm a Software Engineer from Maharashtra, India, obsessed with building things that actually ship. I design scalable backends, integrate AI into real products, and currently serve as CTO at Evakili. Currently juggling a Full Stack internship, a backend role at Erfinden, and shipping multiple products — all at once.
+> I'm a Software Engineer from Pune, Maharashtra, obsessed with building things that actually ship. I design scalable backends, integrate AI into real products, and currently serve as CTO at Evakili. Currently juggling a Full Stack internship at Erfinden, and shipping multiple products — all at once.
 
 <p align="center">
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-7C3AED?style=for-the-badge"/>
@@ -37,7 +37,7 @@
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | **[Evakili](https://evakili.in)** | India's legal-tech platform for multi-city lawyer discovery & consultation | Next.js · Django · PostgreSQL |
-| **DoOrDue** | AI-powered accountability SaaS — submit proof, let AI verify your progress | React · Tailwind · Firebase · Gemini 2.5 Flash |
+| **[DoOrDue](https://doordue.vercel.app/)** | AI-powered accountability SaaS — submit proof, let AI verify your progress | React · Tailwind · Firebase · Gemini 2.5 Flash |
 | **DES Unified Platform** | All-in-one college portal for DES Pune University — combining Classroom, Discord & GitHub Codespaces | Next.js · Express · PostgreSQL · Redis |
 | **Baarter** | Barter marketplace with AI-powered recommendations | In Progress |
 
@@ -47,7 +47,7 @@
 
 | Role | Company | Focus |
 |------|---------|-------|
-| Full Stack Developer Intern | Erfinden | Production-grade apps, scalable APIs, modern web platforms |
+| Full Stack Developer Intern | Erfinden | Production-grade saas, scalable APIs, modern web platforms |
 | Backend Developer | Admaticx | WhatsApp automation, backend APIs, Payment Integration, performance optimization |
 | CTO | Evakili | Technical leadership, system architecture, product engineering |
 
