@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;Founder+%40+APIXBUILD;Building+Evakili+%E2%80%A2+DorOrDue+%E2%80%A2+Baarter" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;CTO+%40+Evakili;Building+DorOrDue+%E2%80%A2+DES+Unified+Platform+%E2%80%A2+Baarter" />
 </p>
 
 ---
 
-> I'm a Software Engineer from Maharashtra, India, obsessed with building things that actually ship. I design scalable backends, integrate AI into real products, and run a small digital agency on the side. Currently juggling a Full Stack internship, a backend role at Admatix, and co-founding three startups — all at once.
+> I'm a Software Engineer from Maharashtra, India, obsessed with building things that actually ship. I design scalable backends, integrate AI into real products, and currently serve as CTO at Evakili. Currently juggling a Full Stack internship, a backend role at Erfinden, and shipping multiple products — all at once.
 
 <p align="center">
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-7C3AED?style=for-the-badge"/>
@@ -37,8 +37,8 @@
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | **[Evakili](https://evakili.in)** | India's legal-tech platform for multi-city lawyer discovery & consultation | Next.js · TypeScript · Supabase |
-| **DorOrDue** | AI-powered accountability SaaS — submit proof, let AI verify your progress | Next.js · Supabase · OpenAI |
-| **APIXBUILD** | Digital agency & product engineering studio for client solutions | Django · Next.js · PostgreSQL |
+| **DorOrDue** | AI-powered accountability SaaS — submit proof, let AI verify your progress | React · Tailwind · Firebase · Gemini 2.5 Flash |
+| **DES Unified Platform** | All-in-one college portal for DES Pune University — combining Classroom, Discord & GitHub Codespaces | Next.js · Express · PostgreSQL · Redis |
 | **Baarter** | Barter marketplace with AI-powered recommendations | In Progress |
 
 ---
@@ -48,8 +48,8 @@
 | Role | Company | Focus |
 |------|---------|-------|
 | Full Stack Developer Intern | Current | Production-grade apps, scalable APIs, modern web platforms |
-| Backend Developer | Admatix | WhatsApp automation, backend APIs, DB design, performance optimization |
-| Co-Founder | APIXBUILD | Product engineering, technical architecture, client solutions |
+| Backend Developer | Erfinden | WhatsApp automation, backend APIs, DB design, performance optimization |
+| CTO | Evakili | Technical leadership, system architecture, product engineering |
 
 ---
 
@@ -118,7 +118,7 @@ A multi-city lawyer discovery and legal consultation platform built for the Indi
 
 Submit proof of your tasks. AI verifies it. No excuses.
 
-- **Stack:** Next.js · Supabase · OpenAI
+- **Stack:** React · Tailwind CSS · Firebase · Gemini 2.5 Flash
 - **Features:** AI verification workflows, secure proof validation, productivity tracking
 - **Impact:** Reducing procrastination with real accountability
 - **Repo:** Private
@@ -126,14 +126,27 @@ Submit proof of your tasks. AI verifies it. No excuses.
 </details>
 
 <details>
-<summary><b>🏢 APIXBUILD — Product Engineering Studio</b></summary>
+<summary><b>🎓 DES Unified Platform — All-in-One College Portal</b></summary>
 <br>
 
-A digital agency delivering enterprise-grade web products for clients.
+A single platform exclusively for DES Pune University students and faculty, combining Google Classroom, WhatsApp, Discord, and GitHub Codespaces — locked to `@despuniversity.edu.in` emails.
 
-- **Stack:** Django · Next.js · PostgreSQL
-- **Features:** Multi-client infrastructure, secure architectures, scalable systems
-- **Impact:** End-to-end digital transformation for businesses
+- **Stack:** Next.js 15 · Express + TypeScript · PostgreSQL (Prisma) · Redis · Socket.io · Anthropic Claude API
+- **Features:** Real-time messaging, role-based access, file storage via Cloudflare R2, job queues with BullMQ, AI integration
+- **Impact:** Replacing 4+ fragmented tools with one purpose-built academic hub
+- **Repo:** Private
+
+</details>
+
+<details>
+<summary><b>📱 ReachFirst — Smart Teacher-Student Communication Portal</b></summary>
+<br>
+
+A real-time messaging platform for educational institutions with an AI-driven automation layer — monitors teacher groups and auto-forwards announcements to the right Class Representatives.
+
+- **Stack:** Next.js · Node.js + Express · MySQL · Socket.io
+- **Features:** Keyword & intent detection, smart message routing to CRs, role-based access (Teacher / CR / Student), real-time chat, read receipts, typing indicators
+- **Impact:** Eliminating delayed or missed announcements for students
 - **Repo:** Private
 
 </details>
@@ -205,6 +218,8 @@ Open_To:
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 </p>
+
+> Just getting started on competitive programming — currently building a solid foundation in DSA and problem-solving fundamentals. Lots to learn, and I'm on it. 🧠
 
 ---
 
