@@ -1,9 +1,9 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:134E4A,100:14B8A6&text=Ashitosh%20Lavhate&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Product%20Builder&descSize=20&descAlignY=62&descColor=99f6e4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1C1C1C,50:92400E,100:F59E0B&text=Ashitosh%20Lavhate&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Product%20Builder&descSize=20&descAlignY=62&descColor=FDE68A"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;CTO+%40+Evakili;Building+DorOrDue+%E2%80%A2+DES+Unified+Platform+%E2%80%A2+Baarter" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;CTO+%40+Evakili;Building+DorOrDue+%E2%80%A2+DES+Unified+Platform+%E2%80%A2+Baarter" />
 </p>
 
 ---
@@ -11,23 +11,23 @@
 > I'm a Software Engineer from Pune, Maharashtra, obsessed with building things that actually ship. I design scalable backends, integrate AI into real products, and currently serve as CTO at Evakili. Currently juggling a Full Stack internship at Erfinden, and shipping multiple products — all at once.
 
 <p align="center">
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-0F4C75?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-1C1C1C?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-F59E0B?style=for-the-badge"/>
 &nbsp;
-<a href="https://ashitoshlavhate.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0F4C75?style=for-the-badge"/></a>
+<a href="https://ashitoshlavhate.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-1C1C1C?style=for-the-badge"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/ashitosh01"><img src="https://img.shields.io/badge/LinkedIn-Connect-14B8A6?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/ashitosh01"><img src="https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge"/></a>
 &nbsp;
-<a href="mailto:ashitoshlavhate2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F4C75?style=for-the-badge"/></a>
+<a href="mailto:ashitoshlavhate2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1C1C1C?style=for-the-badge"/></a>
 &nbsp;
-<a href="https://github.com/ashitoshh01"><img src="https://img.shields.io/badge/GitHub-Profile-14B8A6?style=for-the-badge"/></a>
+<a href="https://github.com/ashitoshh01"><img src="https://img.shields.io/badge/GitHub-Profile-F59E0B?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ashitoshh01&label=Profile%20Views&color=0F4C75&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ashitoshh01&label=Profile%20Views&color=1C1C1C&style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/ashitoshh01?style=for-the-badge&logo=github&label=Followers&color=14B8A6"/>
+<img src="https://img.shields.io/github/followers/ashitoshh01?style=for-the-badge&logo=github&label=Followers&color=F59E0B"/>
 </p>
 
 ---
@@ -156,13 +156,13 @@ A real-time messaging platform for educational institutions with an AI-driven au
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashitoshh01&show_icons=true&theme=nord&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=e2e8f0&bg_color=0F172A"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashitoshh01&show_icons=true&theme=nord&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=e2e8f0&bg_color=1C1C1C"/>
 &nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashitoshh01&theme=nord&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&background=0F172A"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashitoshh01&theme=nord&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&background=1C1C1C"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitoshh01&layout=compact&theme=nord&hide_border=true&title_color=14B8A6&text_color=e2e8f0&bg_color=0F172A"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitoshh01&layout=compact&theme=nord&hide_border=true&title_color=F59E0B&text_color=e2e8f0&bg_color=1C1C1C"/>
 </p>
 
 ---
@@ -216,5 +216,5 @@ Open_To:
 ---
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:14B8A6,50:134E4A,100:0F172A&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:F59E0B,50:92400E,100:1C1C1C&section=footer"/>
 </p>
