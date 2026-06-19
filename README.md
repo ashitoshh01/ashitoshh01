@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;CTO+%40+Evakili;Building+DorOrDue+%E2%80%A2+DES+Unified+Platform+%E2%80%A2+Baarter" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;CTO+%40+Evakili;Building+DoOrDue+%E2%80%A2+DES+Unified+Platform+%E2%80%A2+Baarter" />
 </p>
 
 ---
@@ -91,7 +91,7 @@
 | LLM Integration | ⬛⬛⬛⬛⬜ Advanced | OpenAI API, production AI features |
 | Prompt Engineering | ⬛⬛⬛⬛⬜ Advanced | AI product development |
 | AI Automation | ⬛⬛⬛⬛⬜ Advanced | Workflow & task automation |
-| AI Verification | ⬛⬛⬛⬛⬜ Advanced | DorOrDue proof validation |
+| AI Verification | ⬛⬛⬛⬛⬜ Advanced | DoOrDue proof validation |
 | RAG Systems | ⬛⬛⬛⬜⬜ Intermediate | Knowledge retrieval pipelines |
 | Recommendation Systems | ⬛⬛⬛⬜⬜ Intermediate | Marketplace (Baarter) |
 
@@ -113,7 +113,7 @@ A multi-city lawyer discovery and legal consultation platform built for the Indi
 </details>
 
 <details>
-<summary><b>✅ DorOrDue — AI Accountability Platform</b></summary>
+<summary><b>✅ DoOrDue — AI Accountability Platform</b></summary>
 <br>
 
 Submit proof of your tasks. AI verifies it. No excuses.
@@ -179,13 +179,14 @@ A real-time messaging platform for educational institutions with an AI-driven au
 
 ```yaml
 Learning:
+  - DSA 
   - System Design & Distributed Systems
   - AI Engineering & AI Agents
   - Cloud Infrastructure (AWS)
 
 Building:
   - Evakili  → Legal-tech platform for India
-  - DorOrDue → AI accountability SaaS
+  - DoOrDue → AI accountability SaaS
   - Baarter  → AI-powered barter marketplace
 
 Exploring:
