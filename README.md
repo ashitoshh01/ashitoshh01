@@ -36,7 +36,7 @@
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| **[Evakili](https://evakili.in)** | India's legal-tech platform for multi-city lawyer discovery & consultation | Next.js · Django · PostgreSQL |
+| **[Evakili](https://evakili.com)** | India's legal-tech platform for multi-city lawyer discovery & consultation | Next.js · Django · PostgreSQL |
 | **[DoOrDue](https://doordue.vercel.app/)** | AI-powered accountability SaaS — submit proof, let AI verify your progress | React · Tailwind · Firebase · Gemini 2.5 Flash |
 | **DES Unified Platform** | All-in-one college portal for DES Pune University — combining Classroom, Discord & GitHub Codespaces | Next.js · Express · PostgreSQL · Redis |
 | **Baarter** | Barter marketplace with AI-powered recommendations | In Progress |
