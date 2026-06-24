@@ -47,9 +47,9 @@
 
 | Role | Company | Focus |
 |------|---------|-------|
+| CTO | Evakili | Technical leadership, system architecture, product engineering |
 | Full Stack Developer Intern | Erfinden | Production-grade saas, scalable APIs, modern web platforms |
 | Backend Developer | Admaticx | WhatsApp automation, backend APIs, Payment Integration, performance optimization |
-| CTO | Evakili | Technical leadership, system architecture, product engineering |
 
 ---
 
