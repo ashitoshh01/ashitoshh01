@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;CTO+%40+Evakili;Building+DoOrDue+%E2%80%A2+DES+Unified+Platform+%E2%80%A2+Baarter" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;CTO+%40+Evakili;Building+DoOrDue+%E2%80%A2+DES+Unified+Platform+%E2%80%A2+Barter  X" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 | **[Evakili](https://evakili.com)** | India's legal-tech platform for multi-city lawyer discovery & consultation | Next.js · Django · PostgreSQL |
 | **[DoOrDue](https://doordue.vercel.app/)** | AI-powered accountability SaaS — submit proof, let AI verify your progress | React · Tailwind · Firebase · Gemini 2.5 Flash |
 | **DES Unified Platform** | All-in-one college portal for DES Pune University — combining Classroom, Discord & GitHub Codespaces | Next.js · Express · PostgreSQL · Redis |
-| **Baarter** | Barter marketplace with AI-powered recommendations | In Progress |
+| **Barter X** | Barter marketplace with AI-powered recommendations | In Progress |
 
 ---
 
@@ -93,7 +93,7 @@
 | AI Automation | ⬛⬛⬛⬛⬜ Advanced | Workflow & task automation |
 | AI Verification | ⬛⬛⬛⬛⬜ Advanced | DoOrDue proof validation |
 | RAG Systems | ⬛⬛⬛⬜⬜ Intermediate | Knowledge retrieval pipelines |
-| Recommendation Systems | ⬛⬛⬛⬜⬜ Intermediate | Marketplace (Baarter) |
+| Recommendation Systems | ⬛⬛⬛⬜⬜ Intermediate | Marketplace (Barter  X) |
 
 ---
 
@@ -187,7 +187,7 @@ Learning:
 Building:
   - Evakili  → Legal-tech platform for India
   - DoOrDue → AI accountability SaaS
-  - Baarter  → AI-powered barter marketplace
+  - Barter  X  → AI-powered barter marketplace
 
 Exploring:
   - RAG Systems
