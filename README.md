@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;CTO+%40+Evakili;Building+DoOrDue+%E2%80%A2+DES+Unified+Platform+%E2%80%A2+Barter  X" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;CTO+%40+Evakili;Building+DoOrDue+%E2%80%A2+DES+Unified+Platform+%E2%80%A2+BarterX" />
 </p>
 
 ---
