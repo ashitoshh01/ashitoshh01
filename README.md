@@ -153,16 +153,36 @@ A real-time messaging platform for educational institutions with an AI-driven au
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashitoshh01&show_icons=true&theme=nord&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=e2e8f0&bg_color=0F172A"/>
-&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashitoshh01&theme=nord&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&background=0F172A"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ashitoshh01&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=ashitoshh01&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitoshh01&layout=compact&theme=nord&hide_border=true&title_color=14B8A6&text_color=e2e8f0&bg_color=0F172A"/>
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitoshh01&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ashitoshh01&theme=github-dark&hide_border=true&radius=12"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
