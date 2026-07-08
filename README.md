@@ -8,7 +8,7 @@
 
 ---
 
-> I'm a Software Engineer from Pune, Maharashtra, obsessed with building things that actually ship. I design scalable backends, integrate AI into real products, and currently serve as CTO at Evakili. Currently juggling a Full Stack internship at Erfinden, and shipping multiple products — all at once.
+> Software Engineer focused on backend systems, AI-powered applications, and full-stack product development. Currently serving as CTO at Evakili while building production software at Erfinden. Passionate about designing scalable systems that solve real-world problems.
 
 <p align="center">
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-0F4C75?style=for-the-badge"/>
