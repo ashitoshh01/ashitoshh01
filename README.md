@@ -15,7 +15,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-14B8A6?style=for-the-badge"/>
 &nbsp;
-<a href="https://ashitoshlavhate.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0F4C75?style=for-the-badge"/></a>
+<a href="https://ashitoshlavhate.site"><img src="https://img.shields.io/badge/Portfolio-Visit-0F4C75?style=for-the-badge"/></a>
 &nbsp;
 <a href="https://linkedin.com/in/ashitosh01"><img src="https://img.shields.io/badge/LinkedIn-Connect-14B8A6?style=for-the-badge"/></a>
 &nbsp;
