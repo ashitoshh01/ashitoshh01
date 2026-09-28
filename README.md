@@ -1,82 +1,85 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:134E4A,100:14B8A6&text=Ashitosh%20Lavhate&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Product%20Builder&descSize=20&descAlignY=62&descColor=99f6e4"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:134E4A,100:14B8A6&text=Ashitosh%20Lavhate&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Backend%20%E2%80%A2%20AI&descSize=20&descAlignY=62&descColor=99f6e4"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;CTO+%40+Evakili;Building+DoOrDue+%E2%80%A2+DES+Unified+Platform+%E2%80%A2+BarterX" />
-</p>
-
----
-
-> Software Engineer focused on backend systems, AI-powered applications, and full-stack product development. Currently serving as CTO at Evakili while building production software at Erfinden. Passionate about designing scalable systems that solve real-world problems.
-
-<p align="center">
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-0F4C75?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-14B8A6?style=for-the-badge"/>
-&nbsp;
-<a href="https://ashitoshlavhate.site"><img src="https://img.shields.io/badge/Portfolio-Visit-0F4C75?style=for-the-badge"/></a>
-&nbsp;
-<a href="https://linkedin.com/in/ashitosh01"><img src="https://img.shields.io/badge/LinkedIn-Connect-14B8A6?style=for-the-badge"/></a>
-&nbsp;
-<a href="mailto:ashitoshlavhate2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F4C75?style=for-the-badge"/></a>
-&nbsp;
-<a href="https://github.com/ashitoshh01"><img src="https://img.shields.io/badge/GitHub-Profile-14B8A6?style=for-the-badge"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Shipping+AI-Powered+Products;Building+Full-Stack+Applications;Turning+Ideas+Into+Production+Software" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ashitoshh01&label=Profile%20Views&color=0F4C75&style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/ashitoshh01?style=for-the-badge&logo=github&label=Followers&color=14B8A6"/>
+  <a href="https://ashitoshlavhate.site">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=14B8A6"/>
+  </a>
+  <a href="https://linkedin.com/in/ashitosh01/">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=14B8A6"/>
+  </a>
+  <a href="mailto:ashitoshlavhate2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=14B8A6"/>
+  </a>
+  <a href="https://leetcode.com/u/ashitoshh01/">
+    <img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashitoshh01&label=Profile%20Views&color=14B8A6&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/ashitoshh01?style=flat-square&label=Followers&color=14B8A6"/>
 </p>
 
 ---
 
-## 🚀 What I'm Building
+## About
 
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| **[Evakili](https://evakili.com)** | India's legal-tech platform for multi-city lawyer discovery & consultation | Next.js · Django · PostgreSQL |
-| **[DoOrDue](https://doordue.vercel.app/)** | AI-powered accountability SaaS — submit proof, let AI verify your progress | React · Tailwind · Firebase · Gemini 2.5 Flash |
-| **DES Unified Platform** | All-in-one college portal for DES Pune University — combining Classroom, Discord & GitHub Codespaces | Next.js · Express · PostgreSQL · Redis |
-| **Barter X** | Barter marketplace with AI-powered recommendations | In Progress |
+I'm a **Computer Science undergraduate and Software Engineer** based in Pune, India.
 
----
+I build and ship **full-stack applications, backend systems, AI-powered products, and developer tools**, with hands-on experience across APIs, databases, real-time systems, authentication, payments, and applied AI.
 
-## 💼 Experience
+Currently pursuing my **Third Year B.Tech in Computer Science Engineering** with a **CGPA of 8.6/10**.
 
-| Role | Company | Focus |
-|------|---------|-------|
-| CTO | Evakili | Technical leadership, system architecture, product engineering |
-| Full Stack Developer Intern | Erfinden | Production-grade saas, scalable APIs, modern web platforms |
-| Backend Developer | Admaticx | WhatsApp automation, backend APIs, Payment Integration, performance optimization |
+```text
+🎓  Computer Science Engineering
+💻  Full-Stack & Backend Development
+🤖  Applied AI / ML
+⚡  Real-Time Systems
+🛠️  Developer Tools & SaaS
+🧠  DSA & Problem Solving
+```
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c" />
 
-**Frontend**
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
 
 </td>
-<td align="center" width="50%">
 
-**Backend & Databases**
+<td valign="top" width="50%">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres,supabase,firebase"/>
+### Databases
 
-**Cloud · DevOps · Tooling**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" />
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,netlify"/>
+### Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel" />
+
+### AI / ML
+
+`ResNet50` · `PaDiM` · `OpenCV` · `YOLO` · `Random Forest` · `Groq API`
 
 </td>
 </tr>
@@ -84,115 +87,165 @@
 
 ---
 
-## 🤖 AI / ML Expertise
+## Experience
 
-| Domain | Level | Application |
-|--------|-------|-------------|
-| LLM Integration | ⬛⬛⬛⬛⬜ Advanced | OpenAI API, production AI features |
-| Prompt Engineering | ⬛⬛⬛⬛⬜ Advanced | AI product development |
-| AI Automation | ⬛⬛⬛⬛⬜ Advanced | Workflow & task automation |
-| AI Verification | ⬛⬛⬛⬛⬜ Advanced | DoOrDue proof validation |
-| RAG Systems | ⬛⬛⬛⬜⬜ Intermediate | Knowledge retrieval pipelines |
-| Recommendation Systems | ⬛⬛⬛⬜⬜ Intermediate | Marketplace (Barter  X) |
+### E-Vakili — Tech Lead
 
----
+**December 2025 – September 2026**
 
-## 📦 Featured Projects
+Legal-tech platform connecting users with lawyers across India.
 
-<details>
-<summary><b>🏛 Evakili — India's Legal-Tech Platform</b></summary>
-<br>
+* Built and deployed the platform from scratch.
+* Enabled discovery of **30,000+ lawyer profiles** through location, district, and practice-area based search.
+* Developed lawyer dashboards with analytics, user-interest tracking, chat, posts, follows, and connection requests.
+* Integrated a **RAG-based support chatbot**.
+* Worked across **Next.js, Django, and PostgreSQL** and deployed the production platform.
 
-A multi-city lawyer discovery and legal consultation platform built for the Indian market.
+### Erfinden — Full Stack Developer Intern
 
-- **Stack:** Next.js · TypeScript · Supabase
-- **Features:** Optimized search, authentication, payment protection, lawyer profiles
-- **Impact:** Simplifying access to legal help across Indian cities
-- **Repo:** Private
+**June 2026 – August 2026**
 
-</details>
+* Built core features for a product-to-product and product-to-service barter marketplace.
+* Developed product scoring and recommendation logic for potential barter matches.
+* Implemented real-time chat with privacy safeguards for user-generated images.
+* Worked with **Next.js, Django, PostgreSQL, JWT/OAuth2, Vercel, and Render**.
 
-<details>
-<summary><b>✅ DoOrDue — AI Accountability Platform</b></summary>
-<br>
+### Admatix — Backend Developer Intern
 
-Submit proof of your tasks. AI verifies it. No excuses.
+**March 2026 – May 2026**
 
-- **Stack:** React · Tailwind CSS · Firebase · Gemini 2.5 Flash
-- **Features:** AI verification workflows, secure proof validation, productivity tracking
-- **Impact:** Reducing procrastination with real accountability
-- **Repo:** Private
-
-</details>
-
-<details>
-<summary><b>🎓 DES Unified Platform — All-in-One College Portal</b></summary>
-<br>
-
-A single platform exclusively for DES Pune University students and faculty, combining Google Classroom, WhatsApp, Discord, and GitHub Codespaces — locked to `@despuniversity.edu.in` emails.
-
-- **Stack:** Next.js 15 · Express + TypeScript · PostgreSQL (Prisma) · Redis · Socket.io · Anthropic Claude API
-- **Features:** Real-time messaging, role-based access, file storage via Cloudflare R2, job queues with BullMQ, AI integration
-- **Impact:** Replacing 4+ fragmented tools with one purpose-built academic hub
-- **Repo:** Private
-
-</details>
-
-<details>
-<summary><b>📱 ReachFirst — Smart Teacher-Student Communication Portal</b></summary>
-<br>
-
-A real-time messaging platform for educational institutions with an AI-driven automation layer — monitors teacher groups and auto-forwards announcements to the right Class Representatives.
-
-- **Stack:** Next.js · Node.js + Express · MySQL · Socket.io
-- **Features:** Keyword & intent detection, smart message routing to CRs, role-based access (Teacher / CR / Student), real-time chat, read receipts, typing indicators
-- **Impact:** Eliminating delayed or missed announcements for students
-- **Repo:** Private
-
-</details>
-
+* Built backend APIs and an admin analytics panel for customer activity.
+* Integrated **Razorpay** for a three-tier subscription system.
+* Implemented payment verification, upgrades, recurring payments, and plan-based feature access.
+* Developed subscription and access-control logic for enforcing plan-specific functionality.
 
 ---
 
-# 📊 GitHub Analytics
+## Featured Projects
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=ashitoshh01&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true"
-    alt="GitHub Stats"
-  />
+<details>
+<summary><b>📡 ReachFirst — Real-Time Academic Communication Platform</b></summary>
 
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com?user=ashitoshh01&theme=transparent&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<br>
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitoshh01&layout=compact&langs_count=8&theme=transparent&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+A real-time communication platform designed to automatically route teacher announcements to relevant classes and divisions.
 
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-profile-trophy.vercel.app/?username=ashitoshh01&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"
-    alt="GitHub Trophies"
-  />
-</p>
+**Stack:** Next.js · Express.js · PostgreSQL · Socket.IO · JWT · Prisma
+
+**Built with:**
+
+* Real-time messaging
+* Role-based access
+* Keyword-based automatic message routing
+* Automated class/division announcement delivery
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🔍 FlowLens — Developer Debugging CLI</b></summary>
+
+<br>
+
+A developer tool designed to make runtime UI behavior easier to understand and debug.
+
+**Stack:** TypeScript · Node.js · WebSockets · Next.js
+
+**Built with:**
+
+* Runtime interaction tracking
+* Click and navigation monitoring
+* Component activity tracking
+* Live application event streaming
+* Interactive terminal dashboard
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🎯 DoOrDue — Gamified Anti-Procrastination Platform</b></summary>
+
+<br>
+
+A productivity platform built around loss aversion, accountability, and proof-based task completion.
+
+**Stack:** React · Firebase · Python · YOLO · OCR
+
+**Built with:**
+
+* AI-powered proof verification
+* OCR and document analysis
+* YOLO-based object detection
+* Task streaks
+* Social accountability features
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🏭 AI Visual Inspection SaaS</b></summary>
+
+<br>
+
+An AI-powered manufacturing inspection platform for detecting defects and generating contextual inspection reports.
+
+**Stack:** Python · Flask · React · ResNet50 · PaDiM · Groq API
+
+**Built with:**
+
+* ResNet50 feature extraction
+* PaDiM anomaly detection
+* Automated anomaly heatmaps
+* AI-generated inspection reports
+* Contextual recommendations
+
+</details>
 
 ---
 
+## 🏆 Achievements
 
-## 🐍 Contribution Snake
+<table>
+<tr>
+<td>🏅</td>
+<td><b>Google Student Ambassador — Gemini</b><br/>Organized technical workshops, hackathons, and student developer activities.</td>
+</tr>
+
+<tr>
+<td>🏆</td>
+<td><b>4th Place — Ignitia, MIT-WPU · 2026</b><br/>AI hackathon placement.</td>
+</tr>
+
+<tr>
+<td>🏆</td>
+<td><b>5th Place — Navonmesh, IMCC · 2026</b><br/>Hackathon placement for developing and presenting a technical solution.</td>
+</tr>
+
+<tr>
+<td>🥉</td>
+<td><b>2nd Runner-Up — InnoQuest, IEEE · 2025</b><br/>Recognized for rapid prototyping and collaborative problem solving.</td>
+</tr>
+
+<tr>
+<td>🇮🇳</td>
+<td><b>Smart India Hackathon — Internal Qualifier · 2025</b><br/>Selected through the college-level internal selection process.</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ashitoshh01/ashitoshh01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashitoshh01&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitoshh01&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=ashitoshh01&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -200,44 +253,64 @@ A real-time messaging platform for educational institutions with an AI-driven au
 ## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - DSA 
-  - System Design & Distributed Systems
-  - AI Engineering & AI Agents
-  - Cloud Infrastructure (AWS)
-
-Building:
-  - Evakili  → Legal-tech platform for India
-  - DoOrDue → AI accountability SaaS
-  - Barter  X  → AI-powered barter marketplace
-
-Exploring:
-  - RAG Systems
-  - LLM Agents & Tool Use
-  - Edge Deployments
-
-Open_To:
-  - Software Engineering Roles
-  - Backend / Full Stack Engineering
+learning:
+  - Data Structures & Algorithms
+  - System Design
+  - Distributed Systems
   - AI Engineering
-  - Startup Opportunities
-  - Open Source Contributions
+  - Scalable Backend Architecture
+
+building:
+  - Full-Stack Products
+  - Backend Systems
+  - AI-Powered Applications
+  - Developer Tools
+
+exploring:
+  - RAG Systems
+  - LLM Applications
+  - Real-Time Architecture
+  - Cloud Infrastructure
 ```
 
 ---
 
-## 💻 Coding Profiles
+## 💻 Coding
 
 <p align="center">
-<a href="https://leetcode.com/u/ashitoshh01/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+  <a href="https://leetcode.com/u/ashitoshh01/">
+    <img src="https://img.shields.io/badge/LeetCode-ashitoshh01-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
-> Just getting started on competitive programming — currently building a solid foundation in DSA and problem-solving fundamentals. Lots to learn, and I'm on it. 🧠
+---
+
+## Let's Build Something
+
+I'm interested in **software engineering, backend systems, AI engineering, developer tools, hackathons, and building products that solve real problems.**
+
+<p align="center">
+
+### IDEA → CODE → IMPACT
+
+<br>
+
+<a href="https://ashitoshlavhate.site">
+  <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ashitosh01/">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ashitoshlavhate2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:14B8A6,50:134E4A,100:0F172A&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:14B8A6,50:134E4A,100:0F172A&section=footer"/>
 </p>
